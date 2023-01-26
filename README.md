@@ -1,7 +1,7 @@
 # Database Administration
 <br> This repository contents screenshots of results of every Databases' task that shoud be done. Some tasks were done with several steps that were also shot.
 Every screenshot's name consists of task's part and number. </br>
-<br> Task's terms and conditions are described in [thisPDF-file](https://github.com/marinaimeninnik/DataBases/blob/mainDBstaskdb.pdf).</br>
+<br> Task's terms and conditions are described in [thisPDF-file](https://github.com/marinaimeninnik/DataBases/blob/mainDBs/taskdb.pdf).</br>
 <br> Whole solution path is described below.</br>
 ## Part 1
 <br>Tasks 1 - 2. MySQL server downloaded and installed.</br>
